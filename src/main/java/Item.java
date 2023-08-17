@@ -1,5 +1,3 @@
-import RegexSplitter.GetItemName;
-
 import java.util.ArrayList;
 
 public class Item extends ArrayList<GetItemName> {
